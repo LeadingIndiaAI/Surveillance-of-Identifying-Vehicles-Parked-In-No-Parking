@@ -1,0 +1,3 @@
+Parking
+No_Parking
+Car Running
