@@ -2,15 +2,15 @@
 
 Requirements-
 
-python3
+    python3
 
-opencv3
+    opencv3
 
-keras
+    keras
 
-numpy
+    numpy
 
-tqdm
+    tqdm
 
 
 Options-
