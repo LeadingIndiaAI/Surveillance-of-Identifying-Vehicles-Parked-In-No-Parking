@@ -3,14 +3,21 @@
 Requirements-
 
 python3
+
 opencv3
+
 keras
+
 numpy
+
 tqdm
+
 
 Options-
 
+
 Options of 3dcnn.ipynb are as following:
+
 --batch: batch size, default is 128.
 
 --epoch: the number of epochs, default is 100.
